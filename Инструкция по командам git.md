@@ -1,16 +1,16 @@
-# Инструкция по командам git
+# Step-by-step guide to Git
 
-После установки программы git перед началом работы необходимо ей "представиться". Для этого нужно в терминале ввести следующие команды:
+*After installation of git please enter two commands in order to "introduce yourself"*
 
     git config --global user.name «Ваше имя англ буквами»
 
     git config --global user.email ваша_почта@example.com
 
-Для создания репозитория в папке используется команда git init.
+*Create a Local Git Repository by running the __git init__ command:*
 
-Для того, чтобы добавить файл в репозиторий, введите: 
-
-    git add *название файла*
+If you want Git to start tracking a file, run the following command:
+ 
+    git add *filename*
 
 Для экономии времени можно ввести первые два символа названия файла и нажать tab.
 
