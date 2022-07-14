@@ -119,9 +119,8 @@ fork -> clone -> new branch -> commit -> push -> pull request
 7. Отправить изменения в свой аккаунт: git push --set-upstream origin (название ветки)
 8. Предложить изменения хозяину репозитория -> compare and pull request.
 
-<<<<<<< HEAD
 Сейчас будет инструкция на английском языке и небольшой конфликт в ветках
-=======
+
 **Instruction**
 1. Create a repository copy in your account by running fork command
 2. Clone the repository to the local folder
@@ -131,4 +130,4 @@ fork -> clone -> new branch -> commit -> push -> pull request
 6. Commit the changings
 7. Push it to the account on github
 8. Comapre and pull request
->>>>>>> english_version
+q
