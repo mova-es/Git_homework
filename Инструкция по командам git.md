@@ -147,4 +147,4 @@ fork -> clone -> new branch -> commit -> push -> pull request
 5. Create a new file in the new branch and do necessary actions
 6. Commit the changings
 7. Push it to the account on github
-8. Comapre and pull request
+8. Compare and pull request
