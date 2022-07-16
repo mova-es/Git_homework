@@ -130,4 +130,3 @@ fork -> clone -> new branch -> commit -> push -> pull request
 6. Commit the changings
 7. Push it to the account on github
 8. Comapre and pull request
-q
