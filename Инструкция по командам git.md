@@ -1,4 +1,4 @@
-# Step-by-step guide to Git
+# Step-by-step guide to git / Инструкция по утилите git
 
 *After installation of git please enter two commands in order to "introduce yourself"*
 
@@ -23,6 +23,10 @@ If you want Git to start tracking a file, run the following command:
 Для просмотра всех коммитов введите команду: 
 
     git log
+    
+Для просмотра истории коммитов в виде графа используйте команду
+
+    git log --graph
 
 Для просмотра состояния текста в определенном коммите введите:
 
@@ -58,6 +62,10 @@ If you want Git to start tracking a file, run the following command:
 Чтобы удалить ветку, воспользуйтесь следующей командой:
 
     git branch -d branch_to_delete
+    
+Для принудительного удаления ветки используется следующая команда:
+
+    git branch -D branch_to_delete
 
 Для перехода от ветки к ветке введите: 
 
