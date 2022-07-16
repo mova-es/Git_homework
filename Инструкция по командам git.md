@@ -76,6 +76,8 @@ If you want Git to start tracking a file, run the following command:
 4. Создать коммит git commit -m "your_comment"
 5. Готово!
 
+## Работа с сервисом GitHub
+
 Чтобы отправить кому-то репозиторий, можно воспользоваться сервисом GitHub.
 
 Чтобы скопировать репозиторий с сайта, нужно скопировать ссылку и ввести в терминале команду *git clone (ссылка)*.
