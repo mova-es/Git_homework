@@ -1,7 +1,7 @@
 # Краткая инструкция по языку разметки Markdown / Small guide on Markdown
 
-## Для создания заголовка используйте знак (#)
-### Уровень заголовка регулируется количеством символов (#)
+## Для создания заголовка используйте знак (#) / To create a heading, add the number sign (#) in front of a word or phrase.
+### Уровень заголовка регулируется количеством символов (#) / The number of number signs you use should correspond to the heading level
 
 Для выделения слова курсивом используйте знак (*) или (_), например, *курсив* 
 
