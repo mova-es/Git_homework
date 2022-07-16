@@ -106,6 +106,14 @@ git push -u origin main
 5. Внести изменения из другого места
 6. Скачать (pull) актуальное состояние из удаленного репозитория
 
+**Instruction:**
+1. Create an accounton GitHub website
+2. Create a local repository
+3. Connect the local and the remote repositories
+4. Upload (push) the local repository to the remote, at this time please sign in to your account on GitHub website
+5. Modify necessary files from other PC
+6. Download (pull) the updated version from remote repository
+
 Порядок действий для выполнения pull request:
 fork -> clone -> new branch -> commit -> push -> pull request 
 
